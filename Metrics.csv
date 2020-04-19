@@ -1,0 +1,6 @@
+,,,Value,Value
+Train_Test,,,Test,Train
+Model_Name,Features_used,Metric,,
+LogisticRegression,ALL,AUC,98.76,98.77
+RandomForestClassifier,ALL,AUC,99.98,100.0
+XGBClassifier,ALL,AUC,99.98,99.99
